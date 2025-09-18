@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedrocavalcantip&label=Profile%20views&color=3F51B5&style=for-the-badge" alt="Pedrocavalcantip" />
-  <img src="https://img.shields.io/github/followers/Pedrocavalcantip?label=Followers&style=for-the-badge&color=CDDC39&labelColor=212121" alt="followers" />
-</p>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -79,15 +72,6 @@
 </div>
 
 ---
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&cache_seconds=86400" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 <div align="center">
