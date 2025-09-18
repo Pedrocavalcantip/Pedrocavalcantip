@@ -1,105 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3F51B5"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=200&section=header&text=Pedro%20Cavalcanti&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFC107&background=212121&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pedrocavalcantip&label=Profile%20views&color=3F51B5&style=for-the-badge" alt="Pedrocavalcantip" />
+  <img src="https://img.shields.io/github/followers/Pedrocavalcantip?label=Followers&style=for-the-badge&color=CDDC39&labelColor=212121" alt="followers" />
+</p>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-cavalcanti-83a51a362" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3F51B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pedrocavalcanti7p@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FFC107?style=for-the-badge&logo=gmail&logoColor=212121" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Pedrocavalcantip" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-CDDC39?style=for-the-badge&logo=github&logoColor=212121" alt="GitHub"/>
+  </a>
+</div>
+
+## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
   
-  <b>`Desenvolvedor`</b>
-  <samp>
-      <br>
-      Olá! Eu sou <b>Pedro Cavalcanti</b>
-  </samp>
+### 💻 Linguagens de Programação
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+### 🚀 Frontend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+### ⚡ Backend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 🛠️ Ferramentas & Build Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=FFC107&width=900&size=22&center=true&lines=Olá! Eu sou Pedro Cavalcanti" alt="Typing SVG"/>
-</div>
+---
 
-<br>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Pedrocavalcantip&show_icons=true&count_private=true&rank_icon=github&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&border_color=CDDC39&font=Orbitron"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&font=Orbitron&langs_count=16&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&border_color=CDDC39"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedrocavalcantip&theme=github_dark"/>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
-  
-</div>
-
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Mais Informações</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <samp>
-    <b>
-      Entre em contato:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-FFC107?style=for-the-badge&logo=gmail&logoColor=212121)](mailto:pedrocavalcanti7p@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3F51B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-cavalcanti-83a51a362)
-  [![GitHub](https://img.shields.io/badge/GitHub-CDDC39?style=for-the-badge&logo=github&logoColor=212121)](https://github.com/Pedrocavalcantip)
-  
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&border_color=CDDC39&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&border_color=CDDC39&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://github.com/Pedrocavalcantip?tab=repositories">Repositórios</a> ⊹
-        <a href="https://github.com/Pedrocavalcantip/projeto-prefeitura-backend">Projeto Destaque</a> ⊹
-        <a href="https://www.linkedin.com/in/pedro-cavalcanti-83a51a362">LinkedIn</a> ♡
-      </samp>
-  </p>
+  <img src="https://streak-stats.demolab.com/?user=Pedrocavalcantip&theme=radical&background=212121&stroke=3F51B5&ring=FFC107&fire=CDDC39&currStreakLabel=3F51B5&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
 </div>
-<br>
-
-</details>
-
-##
-
-<br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedrocavalcantip&s=30&c=3F51B5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocavalcantip&theme=react-dark&bg_color=212121&color=3F51B5&line=FFC107&point=CDDC39&area=true&hide_border=false&border_color=3F51B5" alt="Contribution Graph"/>
 </div>
 
-<br>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=100&section=footer"/> 
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&cache_seconds=86400" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+### 🏛️ Sistema Prefeitura Backend
+[![Projeto Prefeitura Backend](https://img.shields.io/badge/🏛️%20Projeto%20Prefeitura%20Backend-3F51B5?style=for-the-badge&logo=github&logoColor=white&labelColor=212121)](https://github.com/Pedrocavalcantip/projeto-prefeitura-backend)
+
+**Tecnologias:** Node.js • Express.js • MySQL  
+**Descrição:** Sistema backend para gestão de doações para ongs em Recife. 
+
+---
+
+### 💼 Mais Projetos
+<p align="center">
+  <a href="https://github.com/Pedrocavalcantip?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-FFC107?style=for-the-badge&logo=github&logoColor=212121&labelColor=212121" alt="Todos os Projetos"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=120&section=footer" />
+</div>
