@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Pedro%20Cavalcanti&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedrocavalcantip&label=Profile%20views&color=00ff00&style=for-the-badge" alt="pedrocavalcantip" />
   <img src="https://img.shields.io/github/followers/pedrocavalcantip?label=Followers&style=for-the-badge&color=00ff00&labelColor=000000" alt="followers" />
@@ -116,8 +112,7 @@ const pedro = {
 
 <div align="center">
   
-<!-- Adicione seus repositórios mais importantes aqui -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocavalcantip&repo=NOME_DO_REPOSITORIO&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00)](https://github.com/pedrocavalcantip/NOME_DO_REPOSITORIO)
+[![Projeto Prefeitura Backend](https://github-readme-stats.vercel.app/api/pin/?username=Pedrocavalcantip&repo=projeto-prefeitura-backend&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00)](https://github.com/Pedrocavalcantip/projeto-prefeitura-backend)
 
 </div>
 
