@@ -1,41 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Pedro%20Cavalcanti&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=200&section=header&text=Pedro%20Cavalcanti&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFC107&background=212121&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedrocavalcantip&label=Profile%20views&color=00ff00&style=for-the-badge" alt="Pedrocavalcantip" />
-  <img src="https://img.shields.io/github/followers/Pedrocavalcantip?label=Followers&style=for-the-badge&color=00ff00&labelColor=000000" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Pedrocavalcantip&label=Profile%20views&color=3F51B5&style=for-the-badge" alt="Pedrocavalcantip" />
+  <img src="https://img.shields.io/github/followers/Pedrocavalcantip?label=Followers&style=for-the-badge&color=CDDC39&labelColor=212121" alt="followers" />
 </p>
 
 ---
-
-## 🚀 Sobre Mim
-
-```javascript
-const pedro = {
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js" ],
-        databases: ["MySQL", "PostgreSQL" ],
-        tools: ["Git", "Docker", "VS Code", "Vite" ]
-    },
-    currentFocus: "Desenvolvimento Web Fullstack",
-    learning: ["C"]
-};
-```
 
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-cavalcanti-83a51a362" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3F51B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pedrocavalcanti7p@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-FFC107?style=for-the-badge&logo=gmail&logoColor=212121" alt="Gmail"/>
   </a>
   <a href="https://github.com/Pedrocavalcantip" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-CDDC39?style=for-the-badge&logo=github&logoColor=212121" alt="GitHub"/>
   </a>
 </div>
 
@@ -86,16 +74,16 @@ const pedro = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=00ff00&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&border_color=CDDC39&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=212121&title_color=3F51B5&text_color=ffffff&border_color=CDDC39&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pedrocavalcantip&theme=radical&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Pedrocavalcantip&theme=radical&background=212121&stroke=3F51B5&ring=FFC107&fire=CDDC39&currStreakLabel=3F51B5&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocavalcantip&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocavalcantip&theme=react-dark&bg_color=212121&color=3F51B5&line=FFC107&point=CDDC39&area=true&hide_border=false&border_color=3F51B5" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -103,7 +91,7 @@ const pedro = {
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&cache_seconds=86400" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&bg_color=212121&title_color=3F51B5&text_color=ffffff&icon_color=FFC107&cache_seconds=86400" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -113,7 +101,7 @@ const pedro = {
 <div align="center">
 
 ### 🏛️ Sistema Prefeitura Backend
-[![Projeto Prefeitura Backend](https://img.shields.io/badge/🏛️%20Projeto%20Prefeitura%20Backend-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Pedrocavalcantip/projeto-prefeitura-backend)
+[![Projeto Prefeitura Backend](https://img.shields.io/badge/🏛️%20Projeto%20Prefeitura%20Backend-3F51B5?style=for-the-badge&logo=github&logoColor=white&labelColor=212121)](https://github.com/Pedrocavalcantip/projeto-prefeitura-backend)
 
 **Tecnologias:** Node.js • Express.js • MySQL  
 **Descrição:** Sistema backend para gestão de serviços municipais
@@ -123,7 +111,7 @@ const pedro = {
 ### 💼 Mais Projetos
 <p align="center">
   <a href="https://github.com/Pedrocavalcantip?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Todos os Projetos"/>
+    <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-FFC107?style=for-the-badge&logo=github&logoColor=212121&labelColor=212121" alt="Todos os Projetos"/>
   </a>
 </p>
 
@@ -132,5 +120,5 @@ const pedro = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=120&section=footer" />
 </div>
