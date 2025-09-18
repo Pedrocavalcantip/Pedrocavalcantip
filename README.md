@@ -12,14 +12,10 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=FFC107&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+Fullstack;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=FFC107&width=900&size=22&center=true&lines=Olá! Eu sou Pedro Cavalcanti" alt="Typing SVG"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/pedro_dev-212121?style=flat&color=CDDC39&labelColor=212121" />
-</div>
       
 <br>
 <br>
