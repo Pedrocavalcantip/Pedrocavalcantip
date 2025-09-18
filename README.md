@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrocavalcantip&label=Profile%20views&color=00ff00&style=for-the-badge" alt="pedrocavalcantip" />
-  <img src="https://img.shields.io/github/followers/pedrocavalcantip?label=Followers&style=for-the-badge&color=00ff00&labelColor=000000" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Pedrocavalcantip&label=Profile%20views&color=00ff00&style=for-the-badge" alt="Pedrocavalcantip" />
+  <img src="https://img.shields.io/github/followers/Pedrocavalcantip?label=Followers&style=for-the-badge&color=00ff00&labelColor=000000" alt="followers" />
 </p>
 
 ---
@@ -86,16 +86,16 @@ const pedro = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrocavalcantip&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocavalcantip&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=00ff00" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=00ff00" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocavalcantip&theme=radical&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrocavalcantip&theme=radical&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocavalcantip&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocavalcantip&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -103,7 +103,7 @@ const pedro = {
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="GitHub Trophies"/>
 </div>
 
 ---
