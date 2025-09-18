@@ -86,12 +86,12 @@ const pedro = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=00ff00" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrocavalcantip&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrocavalcantip&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=00ff00&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrocavalcantip&theme=radical&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Pedrocavalcantip&theme=radical&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@ const pedro = {
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedrocavalcantip&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&cache_seconds=86400" alt="GitHub Trophies"/>
 </div>
 
 ---
