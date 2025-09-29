@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedro Francisco da Costa Cavalcanti - Portfólio</title>
+    <!-- Google Fonts: Poppins para títulos, Inter para texto -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <!-- Font Awesome para ícones -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- CSS principal -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header: Nome à esquerda, menu à direita -->
+    <header class="header">
+        <div class="container">
+            <h1 class="header__name">Davi Peixoto Freire Falcão</h1>
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li><a href="#hero" class="nav__link">Início</a></li>
+                    <li><a href="#sobre" class="nav__link">Sobre</a></li>
+                    <li><a href="#habilidades" class="nav__link">Habilidades</a></li>
+                    <li><a href="#projeto" class="nav__link">Projeto</a></li>
+                    <li><a href="#contato" class="nav__link">Contato</a></li>
+                </ul>
+                <!-- Botão hamburger para mobile -->
+                <button class="hamburger" aria-label="Abrir menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Seção Hero -->
+        <section id="hero" class="hero fade-in">
+            <div class="container">
+                <h2 class="hero__title">Pedro Francisco da Costa Cavalcanti</h2>
+                <p class="hero__subtitle">Estudante de Sistemas de Informação no CIn/UFPE.</p>
+                <a href="#projeto" class="btn btn--primary">Conheça meu trabalho</a>
+            </div>
+        </section>
+
+        <!-- Seção Sobre Mim -->
+        <section id="sobre" class="sobre fade-in">
+            <div class="container">
+                <h2 class="section-title">Sobre Mim</h2>
+                <div class="sobre__content">
+                    <img src="imagens/Imagem do foto-perfil.jpg.jpg" alt="Foto de perfil de Pedro Francisco da Costa Cavalcanti" class="sobre__foto">
+                    <div class="sobre__text">
+                        <p>Sou um estudante de Sistemas de Informação no CIn/UFPE, apaixonado por usar a tecnologia para resolver problemas reais. Minha jornada acadêmica me proporcionou a oportunidade de liderar a equipe de back-end como Scrum Master em um projeto de grande impacto social para a Prefeitura, o Cinboraimpactar. Durante a fase de integração, mergulhei profundamente no front-end, onde ajudei à implementar uma suíte de testes robusta para garantir a segurança e a estabilidade da aplicação. Essa experiência consolidou minha visão full-stack e meu compromisso com a qualidade de software.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Habilidades -->
+        <section id="habilidades" class="habilidades fade-in">
+            <div class="container">
+                <h2 class="section-title">Minhas Habilidades</h2>
+                <div class="habilidades__grid">
+                    <div class="habilidade">
+                        <h3>Linguagens</h3>
+                        <ul>
+                            <li>Python</li>
+                            <li>JavaScript</li>
+                            <li>HTML5</li>
+                            <li>CSS3</li>
+                            <li>C++</li>
+                        </ul>
+                    </div>
+                    <div class="habilidade">
+                        <h3>Front-End</h3>
+                        <ul>
+                            <li>React.js</li>
+                        </ul>
+                    </div>
+                    <div class="habilidade">
+                        <h3>Back-End</h3>
+                        <ul>
+                            <li>Node.js</li>
+                            <li>Express.js</li>
+                        </ul>
+                    </div>
+                    <div class="habilidade">
+                        <h3>Bancos de Dados</h3>
+                        <ul>
+                            <li>PostgreSQL</li>
+                        </ul>
+                    </div>
+                    <div class="habilidade">
+                        <h3>Ferramentas & Metodologias</h3>
+                        <ul>
+                            <li>Git</li>
+                            <li>GitHub</li>
+                            <li>Jest (Testes)</li>
+                            <li>Scrum</li>
+                            <li>Metodologias Ágeis</li>
+                            <li>Vite</li>
+                            <li>Jira</li>
+                            <li>Prisma</li>
+                            <li>Figma</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Projeto Destaque -->
+        <section id="projeto" class="projeto fade-in">
+            <div class="container">
+                <h2 class="section-title">Projeto em Destaque: CinboraImpactar</h2>
+                <div class="projeto__content">
+                    <div class="projeto__galeria">
+                        <a href="imagens/img2.jpeg" target="_blank" class="projeto__imagem-link" title="Ver imagem 2 em tamanho real">
+                            <img src="imagens/img2.jpeg" alt="Imagem 2 do projeto CinboraDoar" class="projeto__imagem projeto__imagem--galeria">
+                        </a>
+                        <a href="imagens/img1.jpeg" target="_blank" class="projeto__imagem-link" title="Ver imagem 1 em tamanho real">
+                            <img src="imagens/img1.jpeg" alt="Imagem 1 do projeto CinboraDoar" class="projeto__imagem projeto__imagem--galeria">
+                        </a>
+                        <a href="imagens/img3.jpeg" target="_blank" class="projeto__imagem-link" title="Ver imagem 3 em tamanho real">
+                            <img src="imagens/img3.jpeg" alt="Imagem 3 do projeto CinboraDoar" class="projeto__imagem projeto__imagem--galeria">
+                        </a>
+                    </div>
+                    <div class="projeto__text">
+                        <p><strong>Descrição:</strong> O CinboraDoar é uma plataforma web desenvolvida para o projeto Bora Impactar da Prefeitura, com o objetivo de otimizar a gestão de doações entre ONGs. O sistema permite que ONGs solicitem itens de necessidade e também repassem itens excedentes para outras instituições. O grande desafio foi criar uma interface extremamente simples e intuitiva, focada em usuários idosos com pouca afinidade tecnológica.</p>
+                        <p><strong>Minhas Contribuições:</strong> Atuei como Scrum Master da equipe de front-end, organizando sprints e garantindo a entrega contínua de valor. Participei ativamente do desenvolvimento da interface com React.js, focando em usabilidade e acessibilidade. Na fase de integração, tive um papel crucial no back-end, desenvolvendo e implementando testes de ponta a ponta para garantir a segurança da API e a integridade dos dados.</p>
+                        <div class="projeto__botoes">
+                            <a href="https://github.com/davi14231" class="btn btn--primary" target="_blank"><i class="fab fa-github"></i> Ver Código no GitHub</a>
+                            <button class="btn btn--secondary">Projeto em Análise</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Contato -->
+        <section id="contato" class="contato fade-in">
+            <div class="container">
+                <h2 class="section-title">Vamos Conversar!</h2>
+                <p class="contato__subtitle">Estou aberto a novas oportunidades e projetos. Sinta-se à vontade para entrar em contato.</p>
+                <div class="contato__links">
+                    <a href="https://github.com/davi14231" class="contato__link" target="_blank">
+                        <i class="fab fa-github"></i>
+                        <span>GitHub</span>
+                    </a>
+                    <a href="mailto:davipffalcao@gmail.com" class="contato__link">
+                        <i class="fas fa-envelope"></i>
+                        <span>davipffalcao@gmail.com</span>
+                    </a>
+                    <a href="https://www.instagram.com/davipfalcao" class="contato__link" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                        <span>@davipfalcao</span>
+                    </a>
+                    <a href="https://wa.me/5581997775831" class="contato__link" target="_blank">
+                        <i class="fab fa-whatsapp"></i>
+                        <span>Telefone e WhatsApp: 81 99777-5831</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Davi Peixoto Freire Falcão.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript principal -->
+    <script src="script.js"></script>
+</body>
+</html>
