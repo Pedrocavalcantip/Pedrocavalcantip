@@ -79,7 +79,7 @@
 ### 🏛️ Sistema Prefeitura Backend
 [![Projeto Prefeitura Backend](https://img.shields.io/badge/🏛️%20Projeto%20Prefeitura%20Backend-3F51B5?style=for-the-badge&logo=github&logoColor=white&labelColor=212121)](https://github.com/Pedrocavalcantip/projeto-prefeitura-backend)
 
-**Tecnologias:** Node.js • Express.js • MySQL  
+**Tecnologias:** Node.js • Express.js • PostgreSQL  
 **Descrição:** Sistema backend para gestão de doações para ongs em Recife. 
 
 ---
