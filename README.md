@@ -11,23 +11,16 @@
   <a href="https://github.com/Pedrocavalcantip?tab=repositories" target="_blank">Repositórios</a>
 </p>
 
----
-
-## Estatísticas
 
 <div align="center">
   <a href="https://github.com/Pedrocavalcantip">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=chartreuse-dark" alt="Top Languages" />
   </a>
   
 </div>
-
----
-
-## Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
