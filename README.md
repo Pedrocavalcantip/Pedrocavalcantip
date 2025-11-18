@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 28px; margin: 10px 0;">Pedro Cavalcanti</h1>
-  <p>Desenvolvedor Full Stack — JavaScript, Node.js, React, PostgreSQL</p>
+  <p align="center">Desenvolvedor Full Stack</p>
 </div>
 
 <p align="center">
@@ -14,13 +14,14 @@
 
 <div align="center">
   <a href="https://github.com/Pedrocavalcantip">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=merko" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=chartreuse-dark" alt="Top Languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=merko" alt="Top Languages" />
   </a>
   
 </div>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -36,5 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/Pedrocavalcantip/projeto-prefeitura-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedrocavalcantip&repo=projeto-prefeitura-backend&theme=merko&hide_border=true" alt="Projeto Prefeitura Backend" />
+  </a>
+</div>
 
 
