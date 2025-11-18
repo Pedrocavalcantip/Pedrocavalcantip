@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/Pedrocavalcantip">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=0b0f14&title_color=39ff14&text_color=e6fef5&icon_color=22c55e&border_color=1f2937" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=0b0f14&title_color=39ff14&text_color=e6fef5&border_color=1f2937" alt="Top Languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" alt="Top Languages" />
   </a>
   
 </div>
