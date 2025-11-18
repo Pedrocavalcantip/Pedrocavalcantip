@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Pedrocavalcantip.png" width="96" alt="Pedro Cavalcanti" style="border-radius:50%" />
   <h1 style="font-size: 28px; margin: 10px 0;">Pedro Cavalcanti</h1>
   <p>Desenvolvedor Full Stack — JavaScript, Node.js, React, PostgreSQL</p>
 </div>
@@ -18,10 +17,10 @@
 
 <div align="center">
   <a href="https://github.com/Pedrocavalcantip">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" alt="Top Languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" alt="Top Languages" />
   </a>
   
 </div>
@@ -32,14 +31,12 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
