@@ -17,7 +17,7 @@
     <img height="180" src="https://github-stats-extended.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_border=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=donut&langs_count=6&hide_border=true&theme=calm" alt="Top Languages" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=donut&langs_count=2&hide_border=true&theme=calm&hide=Jupyter%20Notebook" alt="Top Languages" />
   </a>
   
 </div>
