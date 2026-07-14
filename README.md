@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/Pedrocavalcantip">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=21600" alt="GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Pedrocavalcantip&show_icons=true&hide_title=true&hide_border=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pedrocavalcantip?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pedrocavalcantip&layout=donut&langs_count=6&hide_border=true&theme=calm" alt="Top Languages" />
   </a>
   
 </div>
